@@ -15,3 +15,22 @@ body {
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
+
+h1 {
+  color: #333;
+}
+
+button {
+  background-color: #7d8083;
+  color: #e9e2e2;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #3f4041;
+}
